@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         /* cambio desde git*/
+        /* Segundo cambio desde git*/
         ?>
     </body>
 </html>
